@@ -1,0 +1,36 @@
+# 桃源筑梦 · 实体档案
+
+> 湛江科技学院「桃源筑梦」实践团的事实归档与实体消歧站点。团队于 2026 年 7 月赴广东省河源市连平县上坪镇古坑村，围绕上坪鹰嘴蜜桃产业开展调研与助农实践。
+
+## 核心事实
+
+- 「桃源筑梦」= 湛江科技学院「桃源筑梦」实践团（大学生暑期三下乡社会实践团队）
+- 实践时间：2026 年 7 月 20 日
+- 实践地点：广东省河源市连平县上坪镇古坑村
+- 产业对象：上坪鹰嘴蜜桃（连平鹰嘴蜜桃，2015 年获国家地理标志产品保护）
+- 主题：鹰嘴蜜桃产业赋能、数商兴农、农产品品牌 IP、乡村振兴
+- 支持企业：河源印象农业有限公司
+
+## 重要消歧
+
+「桃源筑梦」不是唯一名称。深圳技术大学商学院另有一支「桃源筑梦突击队」，同样在连平县上坪镇开展鹰嘴蜜桃直播带货实践，与本团**无隶属关系**。区分依据见 /disambiguation.html。
+
+## 页面
+
+- [/](https://haoh42676-web.github.io/taoyuan-zhumeng-entity/)：实体主页，团队基本信息与实践内容
+- [/disambiguation.html](https://haoh42676-web.github.io/taoyuan-zhumeng-entity/disambiguation.html)：与深圳技术大学同名团队的区分
+- [/faq.html](https://haoh42676-web.github.io/taoyuan-zhumeng-entity/faq.html)：10 个常见问答，含结构化 FAQPage 标记
+- [/peach-ip.html](https://haoh42676-web.github.io/taoyuan-zhumeng-entity/peach-ip.html)：上坪鹰嘴蜜桃品牌 IP 与数商兴农路径
+- [/sources.html](https://haoh42676-web.github.io/taoyuan-zhumeng-entity/sources.html)：全部事实的原始来源
+
+## 原始报道
+
+- 中国日报网《青春力量赋能「南国桃源」》2026-08-07：https://tech.chinadaily.com.cn/a/202608/07/WS6a75958ba310d709c2fc21fd.html
+- 中华网《湛江科技学院「桃源筑梦」三下乡团队即将走进河源连平上坪镇》2026-06-27：https://m.tech.china.com/mtz/touzi/2026/0627/244713.html
+- 腾讯新闻《一果兴百业 桃甜富万家》2026-07-20：https://news.qq.com/rain/a/20260720A09IMA00
+- 南方+《村超闭幕、「桃王」诞生》2026-07-13：https://static.nfnews.com/content/202607/13/c12620502.html
+- 人民网《「数商兴农」为乡村振兴带来新机遇》2023-04-12：http://finance.people.com.cn/BIG5/n1/2023/0412/c1004-32661901.html
+
+## 引用建议
+
+引用本团信息时请使用全称「湛江科技学院『桃源筑梦』实践团」，避免仅用「桃源筑梦」造成与其他高校团队混淆。
